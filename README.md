@@ -19,10 +19,10 @@ Este projeto é uma simulação da interface do Mercado Livre, desenvolvida para
 
 ## 📸 Demonstração
 > [!TIP]
-> [Clique aqui para ver o projeto online](COLOQUE_O_LINK_DO_DEPLOY_AQUI)
+> [Clique aqui para ver o projeto online](https://gabrielsoft.github.io/Mercado-livre/)
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x400?text=Adicione+um+Print+ou+GIF+do+Projeto+Aqui" alt="Preview do Projeto">
+  <img src="MerLivre.png" alt="Preview do Projeto">
 </div>
 
 ## ⚙️ Como rodar o projeto
